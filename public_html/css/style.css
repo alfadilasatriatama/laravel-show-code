@@ -1,0 +1,51 @@
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  
+  .form-registration input {
+      border-radius: 0;
+      margin-bottom: -1px;
+  }
+  .galery {
+    margin: 10px auto;
+    overflow: auto;
+    display: ;
+  }
+
+  .jumbo {
+    maxx-width: 400px;
+  }
+
+  .thumb {
+    max-width: 115px;
+    max-height: 100px;
+    float: left;
+  }
+
+  .thumb:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
+
+  body {
+    background-color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+
+
